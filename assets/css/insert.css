@@ -1,0 +1,20 @@
+.insert-news{
+    margin: 30px 0;
+}
+
+.insert-des{
+    margin: 4px 0;
+    color: #fff;
+}
+
+.input-insert{
+    padding: 6px;
+    width: 100%;
+    outline: none;
+}
+
+.insertSubmitBtn{
+    padding: 6px;
+    margin-top: 6px;
+    cursor: pointer;
+}

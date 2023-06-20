@@ -1,0 +1,15 @@
+table{
+    margin-top: 10px;
+}
+input {
+    margin-top:10px ;
+    margin-bottom: 10px;
+}
+.form-update {
+    padding: 6px;
+    outline: none;
+}
+input {
+    padding: 6px;
+    outline: none;
+}

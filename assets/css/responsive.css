@@ -1,0 +1,60 @@
+@media (max-width: 1023px) {
+    .search-box,
+    .sub-nav {
+        display: none;
+    }
+    .header-top,
+    .sticky-header {
+        padding: 0 12px;
+        justify-content: space-between;
+    }
+    .content {
+        padding-right: 12px;
+        padding-left: 12px;
+        background-image: url();
+    }
+    .covid-slogan {
+        top: 12px;
+        background-color: #fff;
+        color: #2fa1b3;
+        font-size: 15px;
+    }
+    .hot-content {
+        padding-top: 70px;
+        flex-direction: column;
+    }
+    .hottest-content {
+        width: 100%;
+    }
+    .content-hot-open-detail,
+    .relate-to {
+        display: none;
+    }
+    .hot-content-side {
+        width: 100%;
+    }
+    .content-element {
+        width: 100%!important;
+        margin-left: 0!important;
+        margin-bottom: 12px!important;
+    }
+    .mobile-style {
+        display: flex;
+    }
+    .content-about-mobile {
+        width: 8.3333%;
+        min-width: 170px;
+    }
+    .img-height-180 {
+        height: auto;
+    }
+    .content-des {
+        margin-top: 0!important;
+        margin-left: 8px!important;
+    }
+    .contact,
+    .other,
+    .footer-top {
+        display: none;
+    }
+}
